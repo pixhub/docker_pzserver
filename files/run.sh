@@ -74,7 +74,7 @@ if [ $? = 0 ]
    then
        echo "==> The Server is Up to Date"
    else
-       echo "==> An error occured, please resart the service"
+       echo "==> An error occured, please restart the service"
        exit 1
 fi
 
